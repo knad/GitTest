@@ -4,5 +4,6 @@
     <string name="app_name">GitUploadTest</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="label_message">Github commit test.</string>
 
 </resources>

@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
 
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(), "Git upload test", Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), getResources().getString(R.string.label_message), Toast.LENGTH_SHORT).show();
             }
         });
     }
